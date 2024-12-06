@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+```bash
 
            (                .  isharapallawattha@gmail.com
             )               │
@@ -20,4 +20,4 @@
                             └─ 
 
 
--->
+
