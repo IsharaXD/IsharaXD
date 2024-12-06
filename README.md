@@ -1,4 +1,4 @@
-![Hi, I'm Ishara]
+### I'm Ishara <a><img height="30" width="30" alt="pfp" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
 
 ```bash
 
