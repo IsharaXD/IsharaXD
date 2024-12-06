@@ -1,22 +1,9 @@
-![Hi, I'm Ishara](https://media1.tenor.com/m/TGvcb8MhHJoAAAAC/cat-crunch.gif)
+###Hi, I'm Ishara
+(https://media1.tenor.com/m/TGvcb8MhHJoAAAAC/cat-crunch.gif)
 
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/TGvcb8MhHJoAAAAC/cat-crunch.gif" width="200">
-</p>
 
-### Hi, I'm Ishara
-- **Email**: isharapallawattha@gmail.com
-- **Undergraduate**: 23 y/o
-- **Languages**: Python, Java, JavaScript, MATLAB, MERN, C#, C, HTML, CSS
-- **Graphic Designer**
-- **Volunteer**: IEEE, Aiesec, Embark
 
----
-
-#### Contact:
-- **Email**: isharapallawattha@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/ishara-pallawattha](https://www.linkedin.com/in/ishara-pallawattha)
 
 
 
