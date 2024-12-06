@@ -1,11 +1,4 @@
 ###Hi, I'm Ishara
-(https://media1.tenor.com/m/TGvcb8MhHJoAAAAC/cat-crunch.gif)
-
-
-
-
-
-
 
 ```bash
 
