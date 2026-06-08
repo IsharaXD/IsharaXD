@@ -8,10 +8,9 @@
 (\|||/) .  isharapallawattha@gmail.com
    │
    ├─ Undergratudate
-   ├─ 24 y/o
-   ├─ Languages ~ Python,Java,Javascript, Matlab, MERN, C#, C,HTML,CSS,
+   ├─ Tech Stack ~ Python,Java,Javascript, Matlab, MERN, C#, C, Angualr, React, Three.js
    ├─ Graphic Designer
-   ├─ Volunteer(IEEE, Aiesec, Embark
+   ├─ Volunteer(IEEE, Aiesec, Embark)
    └─
    .  contacts
    │
